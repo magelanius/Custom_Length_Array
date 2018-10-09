@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLengthCollection", "CustomLengthCollection\CustomLengthCollection.csproj", "{2AC391CA-E5BC-4C49-89D6-EBA2481D8CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUI", "TUI\TUI.csproj", "{4FC55445-AD40-46AC-9B11-25070E81233C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC391CA-E5BC-4C49-89D6-EBA2481D8CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC391CA-E5BC-4C49-89D6-EBA2481D8CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC391CA-E5BC-4C49-89D6-EBA2481D8CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC391CA-E5BC-4C49-89D6-EBA2481D8CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC55445-AD40-46AC-9B11-25070E81233C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC55445-AD40-46AC-9B11-25070E81233C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC55445-AD40-46AC-9B11-25070E81233C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC55445-AD40-46AC-9B11-25070E81233C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0477DA8-3BF0-4D84-B950-7FA45334BEBA}
+	EndGlobalSection
+EndGlobal
